@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['17722386341', '👑 Shadow - King 👑', true],
-  ['5219996125657'],
-  ['5219991402134'],
-  ['5219992095479']
+  ['51917611323', '𓃵𝕯𝖊𝖘𝖙𝖗𝖔𝒚𝖊𝖗⍣𝛰𝔣𝑖𝒄𝑖𝚊𝑙⃝ ཻུꫂ⠗', true],
+  ['51917611323'],
+  ['51917611323'],
+  ['51917611323']
 ] // Cambia los numero que quieras
-global.mods = [] 
-global.prems = [] 
+global.mods = [51917611323] 
+global.prems = [51917611323] 
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
